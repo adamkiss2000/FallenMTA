@@ -1,0 +1,16 @@
+<meta>
+    <info author="Fallen RP" type="script" name="cr_money" />
+
+    <script src="server.lua" type="server" />
+
+    <export function="getMoney" type="server" />
+    <export function="getBankMoney" type="server" />
+    <export function="giveMoney" type="server" />
+    <export function="takeMoney" type="server" />
+    <export function="setMoney" type="server" />
+    <export function="giveBankMoney" type="server" />
+    <export function="takeBankMoney" type="server" />
+    <export function="setBankMoney" type="server" />
+
+    <min_mta_version server="1.6.0" />
+</meta>
