@@ -1,0 +1,11 @@
+function ReplaceCar()
+txd = engineLoadTXD('petro.txd', 514)
+engineImportTXD(txd, 514)
+dff = engineLoadDFF('petro.dff', 514)
+engineReplaceModel(dff, 514)
+txd = engineLoadTXD('petrotr.txd', 584)
+engineImportTXD(txd, 584)
+dff = engineLoadDFF('petrotr.dff', 584)
+engineReplaceModel(dff, 584)
+end
+addEventHandler( 'onClientResourceStart', getResourceRootElement(getThisResource()), ReplaceCar)

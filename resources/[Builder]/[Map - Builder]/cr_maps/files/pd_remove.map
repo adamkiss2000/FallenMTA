@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (veg_palm04) (1)" radius="22.657042" interior="0" model="620" lodModel="0" posX="1541.4531" posY="-1642.0312" posZ="13.04688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palm04) (2)" radius="22.657042" interior="0" model="620" lodModel="0" posX="1547.5703" posY="-1689.9844" posZ="13.04688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palmkb14) (1)" radius="3.8447819" interior="0" model="646" lodModel="0" posX="1545.6117" posY="-1672.3057" posZ="13.04773" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palmkb14) (2)" radius="3.8447819" interior="0" model="646" lodModel="0" posX="1545.5609" posY="-1678.809" posZ="12.98142" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palmkb14) (3)" radius="3.8447819" interior="0" model="646" lodModel="0" posX="1553.84" posY="-1673.4675" posZ="15.42006" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palmkb14) (4)" radius="3.8447819" interior="0" model="646" lodModel="0" posX="1553.8385" posY="-1677.7426" posZ="15.42555" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1541.7422" posY="-1638.9141" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-2.7262"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1541.4766" posY="-1648.4531" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-0.4478"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1546.8672" posY="-1658.3438" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-2.7262"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1546.6016" posY="-1664.6250" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-0.4478"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1546.8672" posY="-1687.1016" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-2.7262"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1546.6016" posY="-1693.3906" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-0.4478"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1541.2969" posY="-1702.6016" posZ="14.4375" rotX="356.8584" rotY="0" rotZ="-1.8211"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (new_bushsm)" radius="3.16" interior="0" model="647" lodModel="0" posX="1541.4453" posY="-1713.3047" posZ="14.4297" rotX="356.8584" rotY="0" rotZ="-0.0473"></removeWorldObject>
+</map>

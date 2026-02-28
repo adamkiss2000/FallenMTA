@@ -1,0 +1,4 @@
+<meta>
+    <script src="CreateWater.lua" type="client" cache="false" />
+    <download_priority_group>-55</download_priority_group>
+</meta>

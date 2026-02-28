@@ -1,0 +1,29 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/vh.map"></file>
+    <file src="files/vh_remove.map"></file>
+    <file src="files/vhpark.map"></file>
+    <file src="files/pd_remove.map"></file>
+    <file src="files/PD_map.map"></file>
+    <file src="files/cjhouse.map"></file>
+    <file src="files/mine.map"></file>
+    <file src="files/lumberjack.map"></file>
+    <file src="files/border.map"></file>
+    <file src="files/carrace.map"></file>
+    <file src="files/plaza_remove.map"></file>
+    <file src="files/plaza.map"></file>
+    <file src="files/dam.map"></file>
+    <file src="files/carshop.map"></file>
+    <file src="files/carshop_remove.map"></file>
+    <file src="files/dustman.map"></file>
+    <file src="files/ls.map"></file>
+    <file src="files/deli_remove.map"></file>
+    <file src="files/delielott.map"></file>
+    <file src="files/delike.map"></file>
+    <file src="files/eszakika.map"></file>
+    <file src="files/park.map"></file>
+    <file src="readme.txt" readme="true"></file>
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <script src="client.lua" type="client" />
+    <file src="mdl.col" />
+    <file src="mdl.dff" />
+    <file src="mdl.txd" />
+    
+    <download_priority_group>-88</download_priority_group>
+</meta>

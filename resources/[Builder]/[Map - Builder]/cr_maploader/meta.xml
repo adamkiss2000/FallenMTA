@@ -1,0 +1,11 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.lua" type="client" cache="true"></script>
+    <script src="builtmap.lua" type="server" cache="true"></script>
+    <script src="loader.lua" type="server" cache="true"></script>
+    <script src="loaderC.lua" type="client" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="readme.txt" readme="true"></file>
+    <download_priority_group>-31</download_priority_group>
+</meta>

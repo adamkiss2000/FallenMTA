@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (VineSign1_cunte) (1)" radius="52.758518" interior="0" model="13722" lodModel="13759" posX="1413.4141" posY="-804.74219" posZ="83.4375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (VineSign1_cunte01) (1)" radius="45.724674" interior="0" model="13831" lodModel="0" posX="1413.4141" posY="-804.74219" posZ="83.4375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (veg_palm04) (1)" radius="22.657042" interior="0" model="620" lodModel="0" posX="1375.0859" posY="-813.53906" posZ="69.57031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

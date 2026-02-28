@@ -1,0 +1,7 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+    <file src="sounds/crash.mp3" />
+    <file src="sounds/heartbeat.mp3" />
+    <file src="sounds/blood.png" />
+    <download_priority_group>-54</download_priority_group>
+</meta>

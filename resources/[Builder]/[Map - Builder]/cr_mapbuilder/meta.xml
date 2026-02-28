@@ -1,0 +1,10 @@
+<meta>
+    <compiled>true</compiled>
+    <oop>true</oop>
+    <script src="renderC.lua" type="client" cache="true"></script>
+    <script src="server.lua" type="server" cache="true"></script>
+    <script src="files/underscore.lua" type="server" cache="true"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="readme.txt" readme="true"></file>
+    <download_priority_group>-92</download_priority_group>
+</meta>

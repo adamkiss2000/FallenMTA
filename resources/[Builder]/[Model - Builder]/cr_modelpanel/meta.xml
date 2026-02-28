@@ -1,0 +1,141 @@
+<meta>
+    <!--file src=forrás   modelid="[ [ id, id2, ... ] ]" glassLoad = "true/false"-->
+    
+    <!-- Iphone X-->
+    <file src="modells/Iphone_X/cellphone.txd" download="false" modelid="16184" />
+    <file src="modells/Iphone_X/cellphone.dff" download="false" modelid="16184" />
+        
+    <!-- WineMaker -->
+    <file src="modells/WineMaker/dobozerett.txd" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozerett.dff" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozerett.col" download="false" modelid="7251" />
+    <file src="modells/WineMaker/dobozsima.txd" download="false" modelid="7046" />
+    <file src="modells/WineMaker/dobozsima.dff" download="false" modelid="7046" />
+    <file src="modells/WineMaker/dobozsima.col" download="false" modelid="7046" />
+    <file src="modells/WineMaker/hordoerett.txd" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordoerett.dff" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordoerett.col" download="false" modelid="7344" />
+    <file src="modells/WineMaker/hordosima.txd" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordosima.dff" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordosima.col" download="false" modelid="6933" />
+    <file src="modells/WineMaker/hordotetos.txd" download="false" modelid="6929" />
+    <file src="modells/WineMaker/hordotetos.dff" download="false" modelid="6929" />
+    <file src="modells/WineMaker/hordotetos.col" download="false" modelid="6929" />
+	<file src="modells/WineMaker/pres.txd" download="false" modelid="3715" />
+    <file src="modells/WineMaker/pres.dff" download="false" modelid="3715" />
+    <file src="modells/WineMaker/pres.col" download="false" modelid="3715" />
+    <file src="modells/WineMaker/tokeeretlen.txd" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeeretlen.dff" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeeretlen.col" download="false" modelid="6882" />
+    <file src="modells/WineMaker/tokeerett.txd" download="false" modelid="7048" />
+    <file src="modells/WineMaker/tokeerett.dff" download="false" modelid="7048" />
+    <file src="modells/WineMaker/tokeerett.col" download="false" modelid="7048" />
+    	
+    <!-- taxiT -->
+    <file src="modells/taxiT/taxiT.col" modelid="16178" />
+    <file src="modells/taxiT/taxiT.txd" modelid="16178" />
+    <file src="modells/taxiT/taxiT.dff" modelid="16178" />
+
+    <!-- customobjects -->
+    <file src="modells/customobjects/hammer.txd" modelid="1574" />
+	<file src="modells/customobjects/hammer.dff" modelid="1574" />
+	<file src="modells/customobjects/PoliceLight.txd" modelid="2037" />
+	<file src="modells/customobjects/PoliceLight.dff" modelid="2037" />
+	<file src="modells/customobjects/StrawHat.txd" modelid="1589" />
+	<file src="modells/customobjects/StrawHat.dff" modelid="1589" />
+	<file src="modells/customobjects/spruce.txd" modelid="2038" />
+	<file src="modells/customobjects/spruce.dff" modelid="2038" />
+	<file src="modells/customobjects/pine.txd" modelid="2039" />
+	<file src="modells/customobjects/pine.dff" modelid="2039" />
+	<file src="modells/customobjects/grinder.txd" modelid="1329" />
+	<file src="modells/customobjects/grinder.dff" modelid="1329" />
+	<file src="modells/customobjects/grindertool.txd" modelid="5447" />
+	<file src="modells/customobjects/grindertool.dff" modelid="5447" />
+	<file src="modells/customobjects/kmb_cam.col" modelid="2921" />
+	<!-- farm -->
+	<file src="modells/customobjects/farm/inti_kicsi.txd" modelid="[ [16672, 16103, 16191, 16671, 16673, 16674 ] ]" />
+	<file src="modells/customobjects/farm/hoe.dff" modelid="16672" />
+	<file src="modells/customobjects/farm/hoe.col" modelid="16672" />
+	<file src="modells/customobjects/farm/shovel.dff" modelid="16103" />
+	<file src="modells/customobjects/farm/shovel.col" modelid="16103" />
+	<file src="modells/customobjects/farm/watercan.dff" modelid="16191" />
+	<file src="modells/customobjects/farm/watercan.col" modelid="16191" />
+	<file src="modells/customobjects/farm/int_kicsi.dff" modelid="16671" />
+	<file src="modells/customobjects/farm/int_kicsi.col" modelid="16671" />
+	<file src="modells/customobjects/farm/exterior_1.dff" modelid="16673" />
+	<file src="modells/customobjects/farm/exterior_1.col" modelid="16673" />
+	<file src="modells/customobjects/farm/board.dff" modelid="16674" />
+	<file src="modells/customobjects/farm/parsley.dff" modelid="16675" />
+	<file src="modells/customobjects/farm/parsley.txd" modelid="16675" />
+	<file src="modells/customobjects/farm/onion.dff" modelid="16134" />
+	<file src="modells/customobjects/farm/onion.txd" modelid="16134" />
+	<file src="modells/customobjects/farm/radish.dff" modelid="16135" />
+	<file src="modells/customobjects/farm/radish.txd" modelid="16135" />
+	<file src="modells/customobjects/farm/carrot.dff" modelid="16136" />
+	<file src="modells/customobjects/farm/carrot.txd" modelid="16136" />
+
+	<!-- charactercustomization -->
+	<file src="modells/customobjects/charactercustomization/armor.txd" modelid="1242" />
+	<file src="modells/customobjects/charactercustomization/armor.dff" modelid="1242" />
+	<file src="modells/customobjects/charactercustomization/Sheriffarmour.txd" modelid="962" />
+	<file src="modells/customobjects/charactercustomization/Sheriffarmour.dff" modelid="962" />
+	<file src="modells/customobjects/charactercustomization/BackPack1.txd" modelid="3808" />
+	<file src="modells/customobjects/charactercustomization/BackPack.dff" modelid="3808" />
+	<file src="modells/customobjects/charactercustomization/beard.txd" modelid="3387" />
+	<file src="modells/customobjects/charactercustomization/beard.dff" modelid="3387" />
+	<file src="modells/customobjects/charactercustomization/biker_helmet.txd" modelid="3803" />
+	<file src="modells/customobjects/charactercustomization/biker_helmet.dff" modelid="3803" />
+	<file src="modells/customobjects/charactercustomization/bowtie1.txd" modelid="3112" />
+	<file src="modells/customobjects/charactercustomization/bowtie.dff" modelid="3112" />
+	<file src="modells/customobjects/charactercustomization/cow1.txd" modelid="3090" />
+	<file src="modells/customobjects/charactercustomization/cow.dff" modelid="3090" />
+	<file src="modells/customobjects/charactercustomization/cross1.txd" modelid="3082" />
+	<file src="modells/customobjects/charactercustomization/cross.dff" modelid="3082" />
+	<file src="modells/customobjects/charactercustomization/duffelbag1.txd" modelid="3060" />
+	<file src="modells/customobjects/charactercustomization/duffelbag.dff" modelid="3060" />
+	<file src="modells/customobjects/charactercustomization/glasses1.txd" modelid="16644" />
+	<file src="modells/customobjects/charactercustomization/glasses1.dff" modelid="16644" />
+	<file src="modells/customobjects/charactercustomization/theParrot.txd" modelid="7510" />
+	<file src="modells/customobjects/charactercustomization/theParrot.dff" modelid="7510" />
+	<file src="modells/customobjects/charactercustomization/trafficvest.txd" modelid="1254" />
+	<file src="modells/customobjects/charactercustomization/trafficvest.dff" modelid="1254" />
+	<file src="modells/customobjects/charactercustomization/stethoscope.txd" modelid="7617" />
+	<file src="modells/customobjects/charactercustomization/stethoscope.dff" modelid="7617" />
+	
+
+	<!-- pump -->
+    <file src="modells/fuelpump/fpump.txd" modelid="3400" />
+	<file src="modells/fuelpump/fpump.dff" modelid="3400" glassLoad="true" />
+	<file src="modells/fuelpump/fpump.col" modelid="3400" />
+	<file src="modells/fuelpump/gpump.col" modelid="3401" />
+	<file src="modells/fuelpump/gpump.txd" modelid="3401" />
+	<file src="modells/fuelpump/gpump.dff" modelid="3401"	/>
+
+    <!-- lockpick -->
+
+    <file src="modells/lockpick/textures.txd" modelid="[[ 16207, 16208, 16209, 16210 ]]" />
+    <file src="modells/lockpick/lock.dff" modelid="16207" />
+    <file src="modells/lockpick/screwdriver.dff" modelid="16208" />
+    <file src="modells/lockpick/lockpick.dff" modelid="16209" />
+    <file src="modells/lockpick/cashbox.dff" modelid="16210" />
+
+	<!-- Piac -->
+	<file src="modells/piac/piacstand.txd" modelid="3863" />
+	<file src="modells/piac/piacstand.dff" modelid="3863" />
+	<file src="modells/piac/piacstand.col" modelid="3863" />
+	<file src="modells/piac/piactabla.txd" modelid="12922" />
+	<file src="modells/piac/piactabla.dff" modelid="12922" />
+	<file src="modells/piac/piactabla.col" modelid="12922" />	
+	
+	<!-- Drugs -->
+	<file src="modells/drugs/kanna.txd" modelid="3385" />
+	<file src="modells/drugs/kanna.dff" modelid="3385" />
+	<file src="modells/drugs/kokacserje.txd" modelid="3277" />
+	<file src="modells/drugs/kokacserje.dff" modelid="3277" />
+	<file src="modells/drugs/mak.txd" modelid="3267" />
+	<file src="modells/drugs/mak.dff" modelid="3267" />
+	<file src="modells/drugs/marihuana.txd" modelid="3259" />
+	<file src="modells/drugs/marihuana.dff" modelid="3259" />	
+
+    <download_priority_group>-79</download_priority_group>
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <info author="RyanSmith" type="script" name="cr_bootstrap" />
+
+    <script src="server.lua" type="server" />
+</meta>

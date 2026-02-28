@@ -1,0 +1,6 @@
+[2023-10-01 11:20:24] Login ip check -> Player: Luis_Martinez, IP: 175.157.95.209, Serial: FE8C456BFE3331A08A7DE54F634B3602, Version: 352, Country: LK, Hostname: none, City: Colombo, Loc: 6.9355,79.8487, Org: AS18001 Dialog Axiata PLC.
+[2023-10-01 19:36:10] Login ip check -> Player: EnchantingMurderer23, IP: 85.153.233.175, Serial: 3D01AA30FC4A19B17B0679787F0A2C43, Version: 352, Country: TR, Hostname: none, City: Mersin, Loc: 36.8120,34.6389, Org: AS34984 Superonline Iletisim Hizmetleri A.S.
+[2023-10-01 19:39:13] Login deny (country) -> Player: EnchantingMurderer23, IP: 85.153.233.175, Serial: 3D01AA30FC4A19B17B0679787F0A2C43, Version: 352
+[2023-10-01 19:42:28] Login deny (country) -> Player: EnchantingMurderer23, IP: 85.153.233.175, Serial: 3D01AA30FC4A19B17B0679787F0A2C43, Version: 352
+[2023-10-01 19:43:08] Login deny (country) -> Player: EnchantingMurderer23, IP: 85.153.233.175, Serial: 3D01AA30FC4A19B17B0679787F0A2C43, Version: 352
+[2023-10-01 19:58:55] Login deny (country) -> Player: EnchantingMurderer23, IP: 85.153.233.175, Serial: 3D01AA30FC4A19B17B0679787F0A2C43, Version: 352

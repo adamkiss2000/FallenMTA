@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (lasdkrtgrp2) (1)" radius="13.891983" interior="0" model="3574" lodModel="0" posX="2092.6875" posY="-2043.3984" posZ="15.07031" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (rbigcrate_LAS) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3621" scale="1" doublesided="false" collisions="true" frozen="false" posX="2170.7" posY="-2087.8999" posZ="17.7" rotX="0" rotY="0" rotZ="134.995"></object>
+    <removeWorldObject id="removeWorldObject (rbigcrate_LAS) (1)" radius="69.996964" interior="0" model="3621" lodModel="3688" posX="2159.9688" posY="-2093.6875" posZ="17.85938" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (lamppost3) (1)" radius="6.6149273" interior="0" model="1226" lodModel="0" posX="2097.6223" posY="-2104.877" posZ="15.01175" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (dckcanpy) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3627" scale="1" doublesided="false" collisions="true" frozen="false" posX="2145.5" posY="-2082.2" posZ="16.18" rotX="0" rotY="0" rotZ="44.995"></object>
+    <removeWorldObject id="removeWorldObject (dckcanpy) (1)" radius="24.419296" interior="0" model="3627" lodModel="3686" posX="2127.8828" posY="-2083.2734" posZ="16.07813" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2070.3672" posY="-1979.2266" posZ="11.6016" rotX="356.858" rotY="-0.174" rotZ="3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2074.2734" posY="-1999.6016" posZ="11.6016" rotX="356.858" rotY="0.175" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2093.8828" posY="-2003.5547" posZ="11.5156" rotX="356.858" rotY="0" rotZ="-3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2093.8828" posY="-2018.8672" posZ="11.5156" rotX="356.858" rotY="0" rotZ="-3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2109.6016" posY="-2034.9141" posZ="11.5156" rotX="356.858" rotY="0" rotZ="-3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02)" radius="6.53" interior="0" model="1308" lodModel="-1" posX="2125.6641" posY="-2034.9141" posZ="11.5156" rotX="356.858" rotY="0" rotZ="-3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (snpedteevbg_las2)" radius="65.34" interior="0" model="5312" lodModel="-1" posX="2068.9609" posY="-2013.4766" posZ="24.1563" rotX="356.858" rotY="0" rotZ="3.142"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (telgrphpole02) (1)" radius="8.5308437" interior="0" model="1308" lodModel="0" posX="2109.6016" posY="-2018.8672" posZ="11.51563" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

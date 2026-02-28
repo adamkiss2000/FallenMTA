@@ -1,0 +1,12 @@
+<meta>
+    
+    
+    <script type="client" src="sourceC.lua" />
+    <script type="server" src="sourceS.lua" />
+    <script type="shared" src="sourceG.lua" />
+    <oop>true</oop>
+    
+    <min_mta_version client="1.5.2" server="1.5.2" />
+    <download_priority_group>-139</download_priority_group>
+    
+</meta>

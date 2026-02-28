@@ -1,0 +1,5 @@
+<meta>
+    <script type="client" src="SanFierro.lua" />
+    <script type="client" src="LosSantos.lua" />
+    <download_priority_group>-113</download_priority_group>
+</meta>

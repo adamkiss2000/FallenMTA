@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (billbd3)" radius="16.34" interior="0" model="1260" lodModel="0" posX="520.3438" posY="-1307.0625" posZ="29.6797" rotX="356.8584" rotY="0" rotZ="-2.2980"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (billbd3)" radius="14.99" interior="0" model="1266" lodModel="0" posX="520.3516" posY="-1307.0547" posZ="29.6875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (billbd1)" radius="19.02" interior="0" model="1259" lodModel="0" posX="520.3516" posY="-1262.3438" posZ="30.6563" rotX="356.8584" rotY="0" rotZ="-0.8468"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (billbd1)" radius="19.02" interior="0" model="1259" lodModel="0" posX="520.3516" posY="-1262.3438" posZ="30.6563" rotX="356.8584" rotY="0" rotZ="-0.8468"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (lodlbd1)" radius="15.86" interior="0" model="1268" lodModel="0" posX="561.7813" posY="-1262.3438" posZ="30.6563" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (billbd2)" radius="14.85" interior="0" model="1267" lodModel="0" posX="561.7422" posY="-1256.1094" posZ="22.0703" rotX="3.1416" rotY="0" rotZ="2.8367"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (billbd2)" radius="14.82" interior="0" model="1261" lodModel="0" posX="561.7422" posY="-1256.1094" posZ="22.0703" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (billbd1)" radius="19.02" interior="0" model="1259" lodModel="0" posX="561.7813" posY="-1262.3438" posZ="30.6563" rotX="356.8584" rotY="0" rotZ="-0.8468"></removeWorldObject>
+	<removeWorldObject id="removeWorldObject (lodlbd1)" radius="15.86" interior="0" model="1268" lodModel="0" posX="561.7813" posY="-1262.3438" posZ="30.6563" rotX="0" rotY="0" rotZ="-0.8468"></removeWorldObject>
+</map>

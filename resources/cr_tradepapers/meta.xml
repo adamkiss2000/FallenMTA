@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="code_tradePaperC.lua" type="client" cache="false"></script>
+    <script src="code_tradePaperS.lua" type="server" cache="false"></script>
+    <min_mta_version client="1.5.7" server="1.5.7"></min_mta_version>
+    <file src="files/tradepaper.png"></file>
+    <file src="files/signature.ttf"></file>
+    <file src="files/writing.mp3"></file>
+    <download_priority_group>-135</download_priority_group>
+</meta>
