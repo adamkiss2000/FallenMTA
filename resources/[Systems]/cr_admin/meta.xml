@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="server.lua" type="server" cache="true"/>
+    <script src="client.lua" type="client" cache="true"/>
+
+    <export function="getAdminLevel" type="server"/>
+    <export function="isPlayerAdmin" type="server"/>
+    <export function="sendAdminMessage" type="server"/>
+
+    <min_mta_version client="1.5.9" server="1.5.9"/>
+</meta>

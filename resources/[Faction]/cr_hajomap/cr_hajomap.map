@@ -1,4 +1,0 @@
-<map edf:definitions="editor_main">
-    <object id="object (freighter_sfe) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="10230" scale="1" doublesided="false" collisions="true" frozen="false" posX="-1121.8" posY="489.29999" posZ="8.3" rotX="0" rotY="0" rotZ="163.997"></object>
-    <object id="object (freightboxes) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="10231" scale="1" doublesided="false" collisions="true" frozen="false" posX="-1121.4" posY="490.60001" posZ="7" rotX="0" rotY="0" rotZ="163.997"></object>
-</map>

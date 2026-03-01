@@ -1,0 +1,6 @@
+<meta>
+    <info author="octopuszi" name="pingkick" description="octo egy király" type="script" version="1.1" />
+    <script src="pings.lua" type="server" />
+    <script src="pingc.lua" type="client" />
+    <download_priority_group>-104</download_priority_group>
+</meta>

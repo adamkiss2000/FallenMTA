@@ -1,0 +1,8 @@
+[2023-10-22 00:50:55] Login ip check -> Player: wesley, IP: 201.22.38.164, Serial: 52E50B7D7BB5F513E58FDAC92B055343, Version: 352, Country: BR, Hostname: 201.22.38.164.dynamic.adsl.gvt.net.br, City: Curitiba, Loc: -25.4278,-49.2731, Org: AS18881 TELEFÔNICA BRASIL S.A
+[2023-10-22 01:28:22] Login ip check -> Player: UE|FreshCoffee, IP: 41.143.102.49, Serial: 363A80D77ED9DBA284620060EDA311B2, Version: 352, Country: MA, Hostname: none, City: Tétouan, Loc: 35.5784,-5.3684, Org: AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+[2023-10-22 01:29:11] Login deny (country) -> Player: UE|FreshCoffee, IP: 41.143.102.49, Serial: 363A80D77ED9DBA284620060EDA311B2, Version: 352
+[2023-10-22 01:29:20] Login deny (country) -> Player: UE|FreshCoffee, IP: 41.143.102.49, Serial: 363A80D77ED9DBA284620060EDA311B2, Version: 352
+[2023-10-22 01:29:31] Login deny (country) -> Player: UE|FreshCoffee, IP: 41.143.102.49, Serial: 363A80D77ED9DBA284620060EDA311B2, Version: 352
+[2023-10-22 02:10:57] Login ip check -> Player: kendry12, IP: 38.45.46.39, Serial: CC27A6BBE577DA32B5F2B69A80231CA4, Version: 352, Country: DO, Hostname: none, City: Santo Domingo Este, Loc: 18.4885,-69.8571, Org: AS174 Cogent Communications
+[2023-10-22 19:21:15] Login ip check -> Player: UE|FreshCoffee, IP: 41.143.95.141, Serial: 363A80D77ED9DBA284620060EDA311B2, Version: 352, Country: MA, Hostname: none, City: Tétouan, Loc: 35.5784,-5.3684, Org: AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+[2023-10-22 20:45:36] Login deny (country) -> Player: kendry12, IP: 38.45.46.39, Serial: CC27A6BBE577DA32B5F2B69A80231CA4, Version: 352

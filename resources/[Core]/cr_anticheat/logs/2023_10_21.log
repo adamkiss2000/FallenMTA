@@ -1,9 +1,0 @@
-[2023-10-21 22:46:16] Login ip check -> Player: TightFuton47, IP: 187.94.64.29, Serial: FC1F934897C1178AC223CCE3A2A8E852, Version: 352, Country: BR, Hostname: 187-94-64-29.centurytelecom.net.br, City: Contagem, Loc: -19.9317,-44.0536, Org: AS53077 ALOLTECH TELECOM LTDA
-[2023-10-21 22:47:48] Login deny (country) -> Player: TightFuton47, IP: 187.94.64.29, Serial: FC1F934897C1178AC223CCE3A2A8E852, Version: 352
-[2023-10-21 22:48:10] Login deny (country) -> Player: TightFuton47, IP: 187.94.64.29, Serial: FC1F934897C1178AC223CCE3A2A8E852, Version: 352
-[2023-10-21 23:22:47] Login deny (country) -> Player: TightFuton47, IP: 187.94.64.29, Serial: FC1F934897C1178AC223CCE3A2A8E852, Version: 352
-[2023-10-21 23:27:51] Login ip check -> Player: SafeTypewriter50, IP: 111.88.36.34, Serial: C786E1DC809D4EBC1E94ABDB944C78A1, Version: 352, Country: PK, Hostname: wtl.worldcall.net.pk, City: Karachi, Loc: 24.8608,67.0104, Org: AS132165 Connect Communications
-[2023-10-21 23:31:21] Login ip check -> Player: HospitableViola40, IP: 190.179.183.101, Serial: C7EAE0F44754E6DBFA2193AF66CA2BA2, Version: 352, Country: AR, Hostname: 190-179-183-101.speedy.com.ar, City: Cipolletti, Loc: -38.9339,-67.9903, Org: AS22927 Telefonica de Argentina
-[2023-10-21 23:32:12] Login deny (country) -> Player: HospitableViola40, IP: 190.179.183.101, Serial: C7EAE0F44754E6DBFA2193AF66CA2BA2, Version: 352
-[2023-10-21 23:32:24] Login deny (country) -> Player: HospitableViola40, IP: 190.179.183.101, Serial: C7EAE0F44754E6DBFA2193AF66CA2BA2, Version: 352
-[2023-10-21 23:49:27] Login ip check -> Player: Simeao, IP: 187.56.175.164, Serial: 4C334FFBC43609A87BB4E2C2259586B3, Version: 352, Country: BR, Hostname: 187-56-175-164.dsl.telesp.net.br, City: Osasco, Loc: -23.5325,-46.7917, Org: AS27699 TELEFÔNICA BRASIL S.A

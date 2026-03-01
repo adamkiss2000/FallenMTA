@@ -1,0 +1,2 @@
+-- Client oldalon nincs pénz manipuláció.
+-- Minden logika server oldalon történik.

@@ -1,0 +1,38 @@
+channels = {
+    --{"Név", "url"},
+    {"Radio 1", "https://icast.connectmedia.hu/5201/live.mp3"},
+    {"Magyar Mulatos", "https://stream.mexradio.hu:8016/mulatos"},
+    {"Radio 88", "http://www.radio88.hu/stream/radio88.pls"},
+    {"Retro Radio", "https://icast.connectmedia.hu/5001/live.mp3"},
+    {"Slager FM", "http://92.61.114.159:7812/slagerfm256.mp3"},
+    {"KroneHit", "http://relay.181.fm:8068"},
+    {"Old School", "http://relay.181.fm:8068"},
+    {"Jamaica Radio", "https://stream.zeno.fm/omonrcmoy1vuv"},
+    {"Hard Techno", "http://tunein.t4e.dj/hard/dsl/mp3"},
+    {"ReggaeCast", "http://64.202.98.32:808/listen.pls"},
+    {"Hip Hop", "http://sverigesradio.se/topsy/direkt/2576-hi-aac.pls"},
+    {"Uzic - Techo/Minimal", "http://stream.uzic.ch:9010/listen.pls"},
+    {"idobi Howl", "http://69.46.88.26:80/listen.pls"},
+    {"HOT 108 Jamz", "http://108.61.30.179:4010/listen.pls"},
+	{"Balaton Radio", "http://wssgd.gdsinfo.com:8200/listen.pls"},
+	{"Sunshine FM", "http://195.56.193.129:8100/listen.pls"},
+	{"90's dance", "http://listen.181fm.com/181-90sdance_128k.mp3"},
+	{"Awesome 80's", "http://www.181.fm/winamp.pls?station=181-awesome80s&file=181-awesome80s.pls"},
+	{"Star 90's", "http://www.181.fm/winamp.pls?station=181-star90s&file=181-star90s.pls"},
+	{"PopTron", "http://somafm.com/wma128/poptron.asx"},
+	{"UK top 40", "http://www.181.fm/winamp.pls?station=181-uktop40&file=181-uktop40.pls"},
+	{"The Mix", "http://www.181.fm/winamp.pls?station=181-themix&file=181-themix.pls"},
+	{"The Vibe of Vegas", "http://www.181.fm/winamp.pls?station=181-vibe&file=181-vibe.pls"},
+	{"Hip Hop Request", "https://11ec74e.online-server.cloud/stream"},
+	{"BlackBeats FM", "http://blackbeats.fm/listen.m3u"},
+	{"Classic RAP Radio", "http://listen.radionomy.com/classic-rap.m3u"},
+	{"Old School Hip Hop", "http://www.181.fm/winamp.pls?station=181-oldschool&file=181-oldschool.pls"},
+	{"Ibiza Global Radio", "http://ibizaglobalradio.streaming-pro.com:8024/listen.pls"},
+	{"Minimal Mix Radio", "https://minimalmix.radioca.st/stream?type=http&nocache=1696696823435"},
+	{"BestFM", "https://icast.connectmedia.hu/5101/live.mp3"},
+	{"Dikh Rádió", "https://icast.connectmedia.hu/6121/live.mp3"},
+}
+
+function getChannels()
+    return channels
+end

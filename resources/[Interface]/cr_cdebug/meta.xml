@@ -1,7 +1,0 @@
-<meta>
-    <script src="client.lua" type="client" />
-    <script src="server.lua" type="server" />
-    
-    <file src="font.ttf" />
-    <download_priority_group>-50</download_priority_group>
-</meta>

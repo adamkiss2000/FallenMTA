@@ -1,2 +1,0 @@
-
-cr_bone_attachntrySide

@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="BlurShader.lua" type="client" cache="true"/>
+
+    <file src="shaders/BlurShader.fx"/>
+
+    <export function="createBlur" type="client"/>
+    <export function="removeBlur" type="client"/>
+    <export function="updateBlurStrength" type="client"/>
+    <export function="updateBlurPosition" type="client"/>
+
+    <min_mta_version client="1.5.9" server="1.5.9"/>
+</meta>

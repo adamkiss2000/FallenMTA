@@ -1,0 +1,11 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="client.lua" type="client" cache="true"/>
+
+    <export function="smoothMoveCamera" type="client"/>
+    <export function="stopSmoothMoveCamera" type="client"/>
+    <export function="isCameraMoving" type="client"/>
+
+    <min_mta_version client="1.5.9" server="1.5.9"/>
+</meta>

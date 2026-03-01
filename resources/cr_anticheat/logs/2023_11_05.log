@@ -1,0 +1,6 @@
+[2023-11-05 11:32:22] Login ip check -> Player: GaudyShoerack11, IP: 109.121.225.244, Serial: BA9829F5186939DDA7178FCF27A6BE72, Version: 352, Country: BG, Hostname: 109-121-225-244.pz.ddns.bulsat.com, City: Pazardzhik, Loc: 42.2000,24.3333, Org: AS43205 Bulsatcom EOOD
+[2023-11-05 13:40:00] Login ip check -> Player: aXeL, IP: 197.27.104.60, Serial: E76289E1AF6E658FB1B36DE38EE7B912, Version: 352, Country: TN, Hostname: none, City: Tunis, Loc: 36.8190,10.1658, Org: AS37492 Orange Tunisie
+[2023-11-05 13:42:41] Login deny (country) -> Player: aXeL, IP: 197.27.104.60, Serial: E76289E1AF6E658FB1B36DE38EE7B912, Version: 352
+[2023-11-05 13:42:48] Login deny (country) -> Player: aXeL, IP: 197.27.104.60, Serial: E76289E1AF6E658FB1B36DE38EE7B912, Version: 352
+[2023-11-05 13:56:59] Login deny (country) -> Player: aXeL, IP: 197.27.104.60, Serial: E76289E1AF6E658FB1B36DE38EE7B912, Version: 352
+[2023-11-05 13:57:07] Login deny (country) -> Player: aXeL, IP: 197.27.104.60, Serial: E76289E1AF6E658FB1B36DE38EE7B912, Version: 352

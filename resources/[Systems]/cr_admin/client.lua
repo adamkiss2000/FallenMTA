@@ -1,0 +1,2 @@
+-- Jelenleg nincs szükség client oldali logikára.
+-- Ha később admin panel, GUI, notify stb. lesz, ide kerül.

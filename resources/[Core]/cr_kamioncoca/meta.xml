@@ -1,9 +1,0 @@
-<meta>
-    <info author="MTA Resource Massive Replacement" description="www.mta-resource.ru" version="1.3" type="script" />
-    <script src="client.lua" type="client" />
-    <file src="petro.dff" type="client" />
-    <file src="petro.txd" type="client" />
-    <file src="petrotr.dff" type="client" />
-    <file src="petrotr.txd" type="client" />
-    <download_priority_group>-87</download_priority_group>
-</meta>
