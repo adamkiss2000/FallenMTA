@@ -1,7 +1,0 @@
-<meta>
-    <info author="Fallen RP" type="script" name="cr_characterdata" />
-
-    <script src="server.lua" type="server" />
-
-    <min_mta_version server="1.6.0" />
-</meta>
